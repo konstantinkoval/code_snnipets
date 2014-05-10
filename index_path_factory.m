@@ -1,5 +1,5 @@
 // Index Path Factory
-// 
+// create NSIndexPath
 //
 // IDECodeSnippetCompletionScopes: [Preprocessor]
 // IDECodeSnippetIdentifier: 2E87A9D1-A7FD-4AAC-90E0-16779634FDA1
