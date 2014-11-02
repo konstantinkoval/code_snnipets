@@ -1,6 +1,7 @@
 // Options
 // 
 //
+// IDECodeSnippetCompletionPrefix: options
 // IDECodeSnippetCompletionScopes: [TopLevel]
 // IDECodeSnippetIdentifier: 84F7C54B-AE79-41CA-8EBD-E9E3E11CBC28
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Swift
