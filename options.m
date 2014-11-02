@@ -1,5 +1,5 @@
 // Options
-// 
+// Options in siwft
 //
 // IDECodeSnippetCompletionPrefix: options
 // IDECodeSnippetCompletionScopes: [TopLevel]
