@@ -6,7 +6,7 @@
 // IDECodeSnippetIdentifier: 84F7C54B-AE79-41CA-8EBD-E9E3E11CBC28
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Swift
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 struct <# Actions #> : RawOptionSetType, BooleanType {
 
   private var value: UInt = 0
