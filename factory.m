@@ -1,5 +1,5 @@
 // Factory
-// 
+// Factory extenstion
 //
 // IDECodeSnippetCompletionScopes: [TopLevel]
 // IDECodeSnippetIdentifier: E2FC41DE-3A83-463B-95BD-859462E936CC
