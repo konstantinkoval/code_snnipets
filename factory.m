@@ -11,7 +11,7 @@
 private extension <#Class#> {
   private class Factory {
     class func <#funcName#>() -> <#ReturnType#> {
-      
+    <#code#>
     }
   }
 }
